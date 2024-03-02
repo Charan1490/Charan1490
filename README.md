@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Android app development**
 
-- 🌱 I’m currently learning **Android app development course**
+- 🌱 I’m currently learning **Computer Science Engineering**
 
 - 💬 Ask me about **C++,C,Java,App development**
 
