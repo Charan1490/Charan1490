@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charan Naik</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charan1490&label=Profile%20views&color=0e75b6&style=flat" alt="charan1490" /> </p>
