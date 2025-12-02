@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charan1490&label=Profile%20views&color=0e75b6&style=flat" alt="charan1490" /> </p>
 
-- 🔭 I’m currently working on **Android app development**
+- 🔭 I’m currently working on **Gen AI and Cybersecurity**
 
 - 🌱 I’m currently learning **Computer Science Engineering**
 
-- 💬 Ask me about **C++,C,Java,App development**
+- 💬 Ask me about **C++,C,Java,Python,App development,Full Stack**
 
 - 📫 How to reach me **naikcharan149@gmail.com**
 
